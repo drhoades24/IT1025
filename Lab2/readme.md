@@ -21,6 +21,8 @@ Both latency and transfer rate affect the overall performance of a hard drive an
 Solid state drives are different from traditional HDD's in multiple ways. 1) Solid state drives use NAND or SDRAM storage in lieu of platters and a head. This reduces the number of moving parts and makes them less prone to failure as well as providing faster read and write times. 2) SSD's have a lower power draw due to quicker data access and a lack of moving parts. 3) Ssd's are more expensive on average and offer smaller storage sizes than traditional HDD's due to the cost of flash memory and limitations associated with flash memory.
 
 ### Random Access Memory
+Increasing RAM makes a computer run faster because more of a programs data/instructions can be loaded into the RAM requiring less usage of the swap file on the HDD which is slower to access. The difference between 32 and 64 bit data paths are the number of bits transferred in one clock cycle. 32 bit data paths can transfer 32 bits of data per clock cycle while 64 bit data paths can transfer 64 bits per clock cycle.
+
 ### Screen Capture
 ### Operating Systems and File Management
 ### ERP
