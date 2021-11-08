@@ -27,7 +27,9 @@ Solid state drives are different from traditional HDD's in multiple ways. 1) Sol
 ### Random Access Memory
 Increasing RAM makes a computer run faster because more of a programs data/instructions can be loaded into the RAM requiring less usage of the swap file on the HDD which is slower to access. The difference between 32 and 64 bit data paths are the number of bits transferred in one clock cycle. 32 bit data paths can transfer 32 bits of data per clock cycle while 64 bit data paths can transfer 64 bits per clock cycle.
 
-### Screen Capture
+### ALU and the Control Unit
+
+
 ### Operating Systems and File Management
 ### ERP
 ### Python
